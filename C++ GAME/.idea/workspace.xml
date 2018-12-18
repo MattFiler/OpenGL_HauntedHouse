@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Source/GameLogic.cpp" line="128" mnemonic="2" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="BasicReb0rn" targetName="BasicReb0rn" />
+      <config projectName="BasicReb0rn" targetName="BasicReb0rn+GameData" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e5cf7c6-e935-4c20-8dc0-712312b7f73a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-717969208">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="23" />
+          <entry key="h" value="29" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="ObjectiveC" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="5446" />
+          <entry key="h" value="1511" />
+          <entry key="txt" value="184" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="184" />
+          <entry key="ObjectiveC" value="6957" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-880217366">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="418" />
+          <entry key="h" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="426" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2121436329">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-885357343">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="2" />
+          <entry key="h" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="125" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="6" />
+          <entry key="ObjectiveC" value="125" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1990393974">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1246" />
+          <entry key="h" value="171" />
+          <entry key="txt" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="55" />
+          <entry key="ObjectiveC" value="1417" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="h" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-739104208">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="61" />
+          <entry key="h" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="6" />
+          <entry key="h" value="8" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="ObjectiveC" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1355057237">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="17246" />
+          <entry key="h" value="5049" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="13" />
+          <entry key="ObjectiveC" value="22295" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="BasicReb0rn+GameData (disassembly)" value="3" />
+          <entry key="cpp" value="18" />
+          <entry key="h" value="26" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="3" />
+          <entry key="ObjectiveC" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Game.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/GameLogic.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="456" column="13" selection-start-line="456" selection-start-column="13" selection-end-line="456" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Game.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/GameLogic.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Structs/GlobalDynamicText.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Structs/ParsedInputData.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Structs/GlobalDynamicText.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/Structs/GameProgress.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/GameDataUtilities.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/GameDataUtilities.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>actionData.currentSubject</find>
+      <find>actionData.action</find>
+      <find>spawn_tile</find>
+      <find>getSystemResponse</find>
+      <find>itemIsOnTile</find>
+      <find>That's silly</find>
+      <find>currentTileIndex</find>
+      <find>GameProgress</find>
+      <find>paramIsOnTile</find>
+      <find>validateSubject</find>
+      <find>makeItemVisible</find>
+      <find>.size()</find>
+      <find>gameData</find>
+      <find>GameLogic::</find>
+      <find>gameProgress</find>
+      <find>itemIsInInventory</find>
+      <find>visible</find>
+      <find>ghosts</find>
+      <find>double score</find>
+      <find>string()</find>
+      <find>&quot;name&quot;</find>
+      <find>string</find>
+      <find>rand</find>
+      <find>length</find>
+      <find>setCurrentTileExits</find>
+      <find>score=</find>
+      <find>return to</find>
+      <find>it's locked</find>
+      <find>was_used</find>
+      <find>climb(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>actionData.currentAction</replace>
+      <replace>actionData.subject</replace>
+      <replace>tile</replace>
+      <replace>progress()</replace>
+      <replace>progression()</replace>
+      <replace>GameUtilities::</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/MyGame.h" />
+        <option value="$PROJECT_DIR$/Source/SpriteComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/MyGame.cpp" />
+        <option value="$PROJECT_DIR$/Source/HauntedHouseGame.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Source/Rect.h" />
+        <option value="$PROJECT_DIR$/Source/SpriteComponent.h" />
+        <option value="$PROJECT_DIR$/Source/GameScreenText.cpp" />
+        <option value="$PROJECT_DIR$/Source/GameData.cpp" />
+        <option value="$PROJECT_DIR$/Source/GameData.h" />
+        <option value="$PROJECT_DIR$/Libs/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Source/GameProgress.cpp" />
+        <option value="$PROJECT_DIR$/Source/GameConstants.h" />
+        <option value="$PROJECT_DIR$/Source/GameScreenText.h" />
+        <option value="$PROJECT_DIR$/Source/GameActionData.h" />
+        <option value="$PROJECT_DIR$/Source/GameProgress.h" />
+        <option value="$PROJECT_DIR$/Source/Structs/GameScreenText.h" />
+        <option value="$PROJECT_DIR$/Source/Structs/GameActionData.h" />
+        <option value="$PROJECT_DIR$/Source/Logic.h" />
+        <option value="$PROJECT_DIR$/Source/Structs/MapProgress.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Source/GameUtilities.h" />
+        <option value="$PROJECT_DIR$/Source/GameUtilities.cpp" />
+        <option value="$PROJECT_DIR$/Source/Structs/GlobalDynamicText.h" />
+        <option value="$PROJECT_DIR$/Source/GameLogic.h" />
+        <option value="$PROJECT_DIR$/Source/Structs/GlobalDynamicText.cpp" />
+        <option value="$PROJECT_DIR$/Source/Game.cpp" />
+        <option value="$PROJECT_DIR$/Source/Game.h" />
+        <option value="$PROJECT_DIR$/Source/Structs/GameProgress.h" />
+        <option value="$PROJECT_DIR$/Source/GameDataUtilities.h" />
+        <option value="$PROJECT_DIR$/Source/GameDataUtilities.cpp" />
+        <option value="$PROJECT_DIR$/Source/Structs/ParsedInputData.h" />
+        <option value="$PROJECT_DIR$/Source/GameLogic.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BasicReb0rn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++ GAME" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicReb0rn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++ GAME" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicReb0rn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++ GAME" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="Structs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/TextAdventure/ASGE2 Game" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Github Repos\basic-reb0rn-MattFiler\C++ GAME\Source\Structs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\basic-reb0rn-MattFiler\C++ GAME\Builds" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BasicReb0rn+GameData">
+    <configuration name="BasicReb0rn" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicReb0rn" TARGET_NAME="BasicReb0rn" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BasicReb0rn" RUN_TARGET_NAME="BasicReb0rn">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicReb0rn+GameData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicReb0rn" TARGET_NAME="BasicReb0rn+GameData" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BasicReb0rn" RUN_TARGET_NAME="BasicReb0rn">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BasicReb0rn" RUN_TARGET_NAME="BasicReb0rn" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.BasicReb0rn" />
+      <item itemvalue="Application.BasicReb0rn+GameData" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5cf7c6-e935-4c20-8dc0-712312b7f73a" name="Default Changelist" comment="" />
+      <created>1539951905317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539951905317</updated>
+      <workItem from="1539951907978" duration="3560000" />
+      <workItem from="1540202888667" duration="6091000" />
+      <workItem from="1540210066007" duration="13670000" />
+      <workItem from="1540297899926" duration="1271000" />
+      <workItem from="1540377553302" duration="2428000" />
+      <workItem from="1540464123423" duration="178000" />
+      <workItem from="1540541926114" duration="1336000" />
+      <workItem from="1540543470373" duration="2496000" />
+      <workItem from="1540547327873" duration="256000" />
+      <workItem from="1540547950422" duration="3978000" />
+      <workItem from="1540989576710" duration="307000" />
+      <workItem from="1540989899913" duration="92000" />
+      <workItem from="1540991024594" duration="1877000" />
+      <workItem from="1541007493051" duration="43000" />
+      <workItem from="1541007624193" duration="25289000" />
+      <workItem from="1541167827586" duration="22559000" />
+      <workItem from="1541245298181" duration="1412000" />
+      <workItem from="1541364268213" duration="14248000" />
+      <workItem from="1541668622961" duration="1219000" />
+      <workItem from="1541675502221" duration="2235000" />
+      <workItem from="1541754324011" duration="8456000" />
+      <workItem from="1541776874316" duration="787000" />
+      <workItem from="1542098664275" duration="1609000" />
+      <workItem from="1542407458348" duration="2093000" />
+      <workItem from="1544200617054" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117509000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15937997" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.3299532" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.436407" weight="0.19890796" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4908585" weight="0.300312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299532" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.42925277" weight="0.32839313" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299532" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.56359303" side_tool="true" visible="true" weight="0.32839313" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3299532" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="outputData" />
+        <watch expression="gameProgress" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/HauntedHouseGame.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/HauntedHouseGame.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Libs/ASGE/include/Engine/Colours.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/main.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/Game.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/Rect.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/Rect.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/SpriteComponent.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/SpriteComponent.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameLogic.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameLogic.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameScreenText.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameProgress.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameData.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameData.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/Game.cpp" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameConstants.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameProgress.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/Source/GameScreenText.h" />
+    <entry file="file:H:/../../..//H:/Personal/GITHUB/basic-reb0rn-MattFiler/C++ GAME/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/Libs/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/GameData.h" />
+    <entry file="file://$PROJECT_DIR$/Source/GameData.cpp" />
+    <entry file="file://$PROJECT_DIR$/Source/Rect.cpp" />
+    <entry file="file://$PROJECT_DIR$/Source/GameProgress.cpp" />
+    <entry file="file://$PROJECT_DIR$/Source/SpriteComponent.h" />
+    <entry file="file://$PROJECT_DIR$/Source/Rect.h" />
+    <entry file="file://$PROJECT_DIR$/Source/GameConstants.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libs/ASGE/include/Engine/OGLGame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libs/ASGE/include/Engine/Game.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libs/ASGE/include/Engine/Keys.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Game.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/GameLogic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Structs/GlobalDynamicText.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Structs/ParsedInputData.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Structs/GlobalDynamicText.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Structs/GameProgress.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/GameDataUtilities.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/GameDataUtilities.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/GameLogic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="456" column="13" selection-start-line="456" selection-start-column="13" selection-end-line="456" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
